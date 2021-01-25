@@ -1,4 +1,4 @@
-# TDT4171---Artificial-Intelligence-Methods
+# TDT4171 - Artificial Intelligence Methods
 
 Code used in the assignments of the course, implemented in Python.
 
@@ -12,4 +12,4 @@ Implementation of a value iteration algorithm that calculates an optimal policy 
 
 ## Exercise 5
 
-Implementation of learning algorithms that decides whether a restaurant review is positive or not. The first part employs sklearn, the second part uses keras.
+Implementation of learning algorithms that decides whether or not a restaurant review is positive. The first part employs sklearn, the second part uses keras.
